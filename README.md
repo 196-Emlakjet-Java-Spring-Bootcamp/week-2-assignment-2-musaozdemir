@@ -1,10 +1,12 @@
 
+# Crud Project 
+
 http://localhost:8085/swagger-ui/index.html
 
 Java 11
-Spring Boot
-Spring Data
-H2 Database
-ModelMapper
-Lombok
+Spring Boot <br>
+Spring Data <br>
+H2 Database <br>
+ModelMapper <br>
+Lombok <br>
 OpenApi
